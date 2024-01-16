@@ -1,0 +1,255 @@
+
+html {
+	font-size:55%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  font-size: 16px;
+}
+.input-box {
+  display: block;
+  position: relative;
+  text-decoration: none;
+}
+.hidden {
+  display: none;
+}
+
+.input-box label {
+  position: absolute;
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  padding-left: 40px; /* Adjust the padding as needed */
+  color: #000; /* Adjust the label color */
+  transition: all 0.3s ease-in-out;
+}
+
+.input-box input {
+  font-size: 20px;
+  width: 150%;
+  background-color: #b0d7e2;
+  padding: 10px;
+  border: 1px solid #b0d7e2;; /* Adjust the border as needed */
+  border-radius: 5px; /* Adjust the border-radius as needed */
+  transition: border-color 0.3s ease-in-out;
+}
+
+.input-box input:focus,
+.input-box input:valid {
+  border-color: #33aacf; /* Adjust the border color when focused */
+}
+
+.input-box input:focus + label,
+.input-box input:valid + label {
+  top: -18px;
+  left: 0;
+  font-size: 12px;
+  color: #33aacf; /* Adjust the label color when focused */
+}
+
+.desktop-1-LXB {
+  box-sizing: border-box;
+  padding-right: 18.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(152.03deg, #bbe7f5 -48.4%, rgba(255, 255, 255, 0.9800000191) 80.95%);
+}
+.desktop-1-LXB .group-3-t2u {
+  margin-right: 24.5rem;
+  box-sizing: border-box;
+  padding: 20rem 19.9rem 46.1rem 12.4rem;
+  height: 108.2rem;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.desktop-1-LXB .group-3-t2u .sudah-punya-akun-PkM {
+  margin-bottom: 13.1rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .group-3-t2u .untuk-tetap-terhubung-silahkan-masuk-sekarang-7wF {
+  margin-bottom: 3.1rem;
+  max-width: 39.1rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-LXB .group-3-t2u .group-2-SCq {
+  width: 22.7rem;
+  height: 7.9rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33aacf;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb {
+  margin-top: 1.6rem;
+  width: 56.9rem;
+  row-gap: 5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .dormhere-Q3B {
+  margin-left: 0.1rem;
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #268eaf;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 {
+  width: 100%;
+  row-gap: 5.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-mplr-Uoj {
+  margin-left: 0.2rem;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  padding: 2.9rem 12.9rem 2.9rem 3.2rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  background-color: #add6e2;
+  border-radius: 2.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-mplr-Uoj .a0e0bb315b0f7675a9-1-o5K {
+  margin-right: 3.1rem;
+  width: 4.6rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-mplr-Uoj .masukkan-email-anda-iTB {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-czj1-EAd {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  padding: 2.5rem 13.4rem 2.5rem 2rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  background-color: #b0d7e2;
+  border-radius: 2.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-czj1-EAd .pngwing-1-8Wu {
+  margin-right: 3.8rem;
+  width: 5.3rem;
+  height: 5.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-czj1-EAd .masukkan-kata-sandi-fWq {
+  margin-top: 0.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-wvxm-NRF {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  padding: 2.5rem 12.5rem 2.5rem 2rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  background-color: #b0d7e2;
+  border-radius: 2.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-wvxm-NRF .pngwing-2-hTX {
+  margin-right: 3.9rem;
+  width: 5.3rem;
+  height: 5.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-4-w37 .auto-group-wvxm-NRF .konfirmasi-kata-sandi-EyF {
+  margin-top: 0.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LXB .auto-group-ryqb-5mb .group-1-9qK {
+  margin: 4rem 8.3rem 0rem 8.5rem;
+  width: calc(100% - 16.8rem);
+  height: 9.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33aacf;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+
+

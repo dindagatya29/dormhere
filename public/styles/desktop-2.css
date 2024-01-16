@@ -1,0 +1,161 @@
+
+html {
+	font-size:61.9%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-2-FwF {
+  box-sizing: border-box;
+  padding-left: 6.4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(152.03deg, #bbe7f5 -48.4%, rgba(255, 255, 255, 0.9800000191) 80.95%);
+}
+.desktop-2-FwF .auto-group-9ztx-fVB {
+  margin: 5rem 14.4rem 0rem 0rem;
+  width: 74rem;
+  flex-shrink: 0;
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .dormhere-wb7 {
+  margin-bottom: 19.1rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #268eaf;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .cari-kamar-kost-pakai-dormhere-aja--Pxu {
+  margin: 0rem 0rem 2.5rem 4.7rem;
+  max-width: 69.3rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .cari-kamar-kost-pakai-dormhere-aja--Pxu .cari-kamar-kost-pakai-dormhere-aja--Pxu-sub-0 {
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .cari-kamar-kost-pakai-dormhere-aja--Pxu .cari-kamar-kost-pakai-dormhere-aja--Pxu-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #268eaf;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .cari-kamar-kost-pakai-dormhere-aja--Pxu .cari-kamar-kost-pakai-dormhere-aja--Pxu-sub-2 {
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .kamu-mahasiswa-unand-pnp-coba-deh-cari-kamar-kost-disini-tAu {
+  margin: 0rem 0rem 6.1rem 5.5rem;
+  max-width: 51.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .auto-group-pcwv-BA1 {
+  margin: 0rem 21.5rem 0rem 5.5rem;
+  width: calc(100% - 27rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .auto-group-pcwv-BA1 .group-1-taD {
+  margin-right: 12.6rem;
+  width: 17.2rem;
+  height: 100%;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33aacf;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.desktop-2-FwF .auto-group-9ztx-fVB .auto-group-pcwv-BA1 .group-6-wHb {
+  width: 17.2rem;
+  height: 100%;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33aacf;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.desktop-2-FwF .auto-group-cnjb-QBB {
+  box-sizing: border-box;
+  padding: 5.9rem 6.4rem 5.9rem 12.8rem;
+  width: 97.2rem;
+  height: 108rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/landingpagee-1-bg.png');
+  flex-shrink: 0;
+}
+.desktop-2-FwF .auto-group-cnjb-QBB .group-5-v9X {
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  column-gap: 6.4rem;
+  align-items: center;
+}
+.desktop-2-FwF .auto-group-cnjb-QBB .group-5-v9X .beranda-f77 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-FwF .auto-group-cnjb-QBB .group-5-v9X .daftar-kos-bmT {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-FwF .auto-group-cnjb-QBB .group-5-v9X .tentang-kami-w4d {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-FwF .auto-group-cnjb-QBB .group-5-v9X .hubungi-kami-UKT {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
